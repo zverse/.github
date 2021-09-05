@@ -3,12 +3,6 @@
 
 ### How Was This Tested?
 
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce, including environment details if applicable.
-Examples:
-```
-"I tested FOO with REST API Tests"
-"I tested BAR with UI Behavior tests in Chrome"
-```
 - [ ] 
 
 ### Required Checklist:
