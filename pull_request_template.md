@@ -1,4 +1,4 @@
-### Fixes / Adds
+### 🐞 Fixes & 💭 Features Added
 - 
 
 ### How Was This Tested?
