@@ -1,12 +1,10 @@
-### 🐞 Fixes & 💭 Features Added
+### 🐞 Fixes & 💭 Features Added:
 - 
 
-### How Was This Tested?
-
-- [ ] 
+### How Was This Tested?:
+- 
 
 ### Required Checklist:
-
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
 - [ ] I have commented my code, particularly in hard-to-understand areas
@@ -15,6 +13,5 @@
 - [ ] Any dependent changes have been merged and published in downstream modules
 
 ### Nice-To-Have Checklist
-
 - [ ] My changes generate no new warnings
 - [ ] I have added tests that prove my fix is effective or that my feature works
